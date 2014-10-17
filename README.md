@@ -1,3 +1,3 @@
 changken-phpblog
 ================
-test
+一個免費部落格軟體！
