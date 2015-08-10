@@ -1,1 +1,0 @@
-﻿Powered by <a href="http://changken.biz/my-works">changken-phpblog</a> v1.7 由<a href="http://changken.biz">changken</a>製作
